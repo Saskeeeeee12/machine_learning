@@ -1,4 +1,5 @@
 ## Добавляем в echo-server распознавание объектов
+![image](https://github.com/user-attachments/assets/4d69ce2d-bc03-49bd-902f-6e642537e2bc)
 
 Функционал добавлял в файл viclient.py и viclient-box.py
 
